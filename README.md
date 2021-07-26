@@ -1,0 +1,320 @@
+2011:
+
+Improving Second-level Adaptive Replacement Cache (ARC) by Adaptive Reuse Distance Access Pattern Tracking
+Sejin Park, Wooram Park, and Chanik Park, POSTECH
+
+IPv6 Addresses as Content Names in Information-Centric Networking
+Suman Srinivasan and Henning Schulzrinne, Columbia University
+
+JLFS: Journaling the Log-Structured Filesystem for Proactive Cleaning in Flash Storage
+Andromachi Hatzieleftheriou and Stergios Anastasiadis, University of Ioannina
+
+Improving Software Diagnosability via Log Enhancement
+Ding Yuan, University of Illinois at Urbana-Champaign and University of California, San Diego; Jing Zheng and Soyeon Park, University of California, San Diego; Haohui Mai, University of Illinois at Urbana-Champaign; Weiwei Xiong, University of Illinois at Urbana-Champaign and University of California, San Diego; Yuanyuan Zhou and Stefan Savage, University of California, San Diego; Shankar Pasupathy, NetApp
+
+Optimizing Shared Resource Contention in HPC Clusters
+Sergey Blagodurov and Alexandra Fedorova, Simon Fraser University
+
+Proactive IO Scheduling: Discriminating Cache and Media in the Storage Device
+Jongmin Gim, Taeho Whang, and Youjip Won, Hanyang University
+
+An Efficient Fuzzing Strategy for Finding Weaknesses in Web Browsers
+Seong-Je Cho and Yeong-Ung Park
+
+Dynamic Service Scalability in Information-Centric Networks
+Suman Srinivasan, Dhruva Batni, and Henning Schulzrinne, Columbia University; Volker Hilt, Alcatel Lucent
+
+BT-based VMM Runtime Code Optimizations for x86 and PowerPC
+Sorav Bansal, Dushyant Bansal, and Aashish Mittal, IIT Delhi; Varun Sethi, Freescale Semiconductor
+
+Informed Swap System for Better Thrashing
+Young Jin Yu, Dong In Shin, Hyeong Seog Kim, Hyeonsang Eom, and Heon Young Yeom, Seoul National University
+
+Islands of Cores: Rethink Resource Management for Manycore Platforms
+Priyanka Tembey, Ada Gavrilovska, and Karsten Schwan, Georgia Institute of Technology
+
+Evaluating the Effectiveness of Model-Based Power Characterization
+John C. McCullough and Yuvraj Agarwal, University of California, San Diego; Jaideep Chandrashekar, Intel Labs, Berkeley; Sathyanarayan Kuppuswamy, Alex C. Snoeren, and Rajesh K. Gupta, University of California, San Diego
+
+Integrating Long Polling with an MVC Web Framework
+Eric Stratmann, John Ousterhout, and Sameer Madan, Stanford University
+
+From Pegasus to Montage: Scheduling the Multiple Personalities of Virtual Machines on Heterogeneous Multi-core Platforms
+Vishakha Gupta and Karsten Schwan, Georgia Institute of Technology
+
+
+2012: https://www.usenix.org/conference/atc12/technical-sessions
+
+ProSEEP: A Proactive Approach to Energy-Aware Programming
+Timo Hönig and Wolfgang Schröder-Preikschat, Friedrich–Alexander University Erlangen–Nuremberg; Rüdiger Kapitza, TU Braunschweig
+
+Rearchitecting System Software for the Cloud
+Muli Ben-Yehuda and Dan Tsafrir, Technion
+
+Tuning a Commodity Network for Efﬁcient All-to-All Data Shufﬂes
+Vijay S. Kumar, Joseph Tucek, and Jay J. Wylie, HP Labs, Palo Alto; Elie Krevat and Gregory R. Ganger, Carnegie Mellon University
+
+A Scalable Server for 3D Metaverses
+Ewen Cheslack-Postava, Tahir Azim, Behram F.T. Mistree, and Daniel Reiter Horn, Stanford University; Jeff Terrace, Princeton University; Philip Levis, Stanford University; Michael J. Freedman, Princeton University
+
+Effective Block Layer Deduplication via File System and Application Hints
+Amar Mudrankit, Mandar Joshi, Atul Karmarkar, Vasily Tarasov, and Ujwala Tulshigiri, Stony Brook University; Philip Shilane, EMC Corporation; Geoff Kuenning, Harvey Mudd College; Erez Zadok, Stony Brook University
+
+I/O Benchmarks Virtualization
+Vasily Tarasov, Stony Brook University; Dean Hildebrand and Anna Povzner, IBM Research—Almaden; Geoff Kuenning, Harvey Mudd College; Erez Zadok, Stony Brook University
+
+Toward GPU-based RAID 6 Erasure Coding Implementations
+Michael McThrow, Shinpei Kato, Carlos Maltzahn, and Scott Brandt, University of California, Santa Cruz
+
+On the Power and Performance Analysis of GPU-Accelerated Systems
+Yuki Abe, Hiroshi Sasaki, Koji Inoue, and Kazuaki Murakami, Kyushu University; Shinpei Kato, Nagoya University
+
+A Library OS for Cloud Computing
+Dan Schatzberg, James Cadden, Orran Krieger, and Jonathan Appavoo, Boston University
+
+First Class Event-Driven Software Primitives
+Dan Schatzberg, James Cadden, Orran Krieger, and Jonathan Appavoo, Boston University
+
+AddressSanitizer: A Fast Address Sanity Checker
+Konstantin Serebryany, Derek Bruening, Alexander Potapenko, and Dmitry Vyukov, Google
+
+Software Persistent Memory
+Jorge Guerra, Leonardo Mármol, Daniel Campello, Carlos Crespo, Raju Rangaswami, and Jinpeng Wei, Florida International University
+
+MemProf: a Memory Proﬁler for NUMA Multicore Systems
+Renaud Lachaize, UJF; Baptiste Lepers, CNRS; Vivien Quéma, GrenobleINP
+
+TROPIC: Transactional Resource Orchestration Platform in the Cloud
+Changbin Liu, University of Pennsylvania; Yun Mao, Xu Chen, and Mary F. Fernández, AT&T Labs—Research; Boon Thau Loo, University of Pennsylvania; Jacobus E. Van der Merwe, AT&T Labs—Research
+
+Practical Hardening of Crash-Tolerant Systems
+Miguel Correia, IST-UTL/INESC-ID, Portugal; Daniel Gómez Ferro, Flavio Junqueira, and Marco Seraﬁni, Yahoo! Research Barcelona, Spain
+
+Gnothi: Separating Data and Metadata for Efﬁcient and Available Storage Replication
+Yang Wang, Lorenzo Alvisi, and Mike Dahlin, The University of Texas at Austin
+
+Gdev: First-Class GPU Resource Management in the Operating System
+Shinpei Kato, Michael McThrow, Carlos Maltzahn, and Scott Brandt, UC Santa Cruz
+
+Composable Reliability for Asynchronous Systems
+Sunghwan Yoo and Charles Killian, Purdue University; Terence Kelly, HP Labs; Hyoun Kyu Cho, University of Michigan; Steven Plite, Purdue University
+
+HeteroMates: Providing High Dynamic Power Range on Client Devices using Heterogeneous Core Groups
+Vishal Gupta, Georgia Tech; Paul Brett, David Koufaty, Dheeraj Reddy, and Scott Hahn, Intel Labs; Karsten Schwan, Georgia Tech; Ganapati Srinivasa, Intel Corporation
+
+Body Armor for Binaries: Preventing Buffer Overﬂows Without Recompilation
+Asia Slowinska, Vrije Universiteit Amsterdam; Traian Stancescu, Google, Inc.; Herbert Bos, Vrije Universiteit Amsterdam
+
+Erasure Coding in Windows Azure Storage
+Cheng Huang, Huseyin Simitci, Yikang Xu, Aaron Ogus, Brad Calder, Parikshit Gopalan, Jin Li, and Sergey Yekhanin, Microsoft Corporation
+
+A Memory Analyzer for an Embedded Run-Time System
+Rebecca Smith, Thomas W. Barr, and Scott Rixner, Rice University
+
+netmap: A Novel Framework for Fast Packet I/O
+Luigi Rizzo, Università di Pisa, Italy
+
+2013: https://www.usenix.org/conference/atc13/technical-sessions
+
+Optimizing VM Checkpointing for Restore Performance in VMware ESXi
+Irene Zhang, University of Washington and VMware; Tyler Denniston, MIT CSAIL and VMware; Yury Baskakov,VMware; Alex Garthwaite, CloudPhysics and VMware
+
+Hyper-Switch: A Scalable Software Virtual Switching Architecture
+Kaushik Kumar Ram, Alan L. Cox, Mehul Chadha, and Scott Rixner, Rice University
+
+MiG: Efﬁcient Migration of Desktop VMs Using Semantic Compression
+Anshul Rai and Ramachandran Ramjee, Microsoft Research India; Ashok Anand, Bell Labs India; Venkata N. Padmanabhan, Microsoft Research India; George Varghese, Microsoft Research US
+
+Copysets: Reducing the Frequency of Data Loss in Cloud Storage
+Asaf Cidon, Stephen Rumble, Ryan Stutsman, Sachin Katti, John Ousterhout, and Mendel Rosenblum, Stanford University
+Awarded Best Student Paper!  
+
+TAO: Facebook’s Distributed Data Store for the Social Graph
+Nathan Bronson, Zach Amsden, George Cabrera, Prasad Chakka, Peter Dimov, Hui Ding, Jack Ferris, Anthony Giardullo, Sachin Kulkarni, Harry Li, Mark Marchukov, Dmitri Petrov, Lovro Puzar, Yee Jiun Song, and Venkat Venkataramani, Facebook, Inc.
+
+PIKACHU: How to Rebalance Load in Optimizing MapReduce On Heterogeneous Clusters
+Rohan Gandhi, Di Xie, and Y. Charlie Hu, Purdue University
+
+FlashFQ: A Fair Queueing I/O Scheduler for Flash-Based SSDs
+Kai Shen and Stan Park, University of Rochester
+
+The Harey Tortoise: Managing Heterogeneous Write Performance in SSDs
+Laura M. Grupp, University of California, San Diego; John D. Davis, Microsoft Research; Steven Swanson, University of California, San Diego
+
+Janus: Optimal Flash Provisioning for Cloud Storage Workloads
+Christoph Albrecht, Arif Merchant, Murray Stokely, Muhammad Waliji, François Labelle, Nate Coehlo, Xudong Shi, and C. Eric Schrock, Google, Inc.
+
+Using One-Sided RDMA Reads to Build a Fast, CPU-Efﬁcient Key-Value Store
+Christopher Mitchell, New York University;  Yifeng Geng, Tsinghua University; Jinyang Li, New York University
+
+Lightweight Memory Tracing
+Mathias Payer, Enrico Kravina, and Thomas R. Gross, ETH Zurich
+
+Flash Caching on the Storage Client
+David A. Holland, Elaine Angelino, Gideon Wald, and Margo I. Seltzer, Harvard University
+
+Practical and Effective Sandboxing for Non-root Users
+Taesoo Kim and Nickolai Zeldovich, MIT CSAIL
+
+TABLEFS: Enhancing Metadata Efﬁciency in the Local File System
+Kai Ren and Garth Gibson, Carnegie Mellon University
+
+Characterization of Incremental Data Changes for Efﬁcient Data Protection
+Hyong Shim, Philip Shilane, and Windsor Hsu, EMC Corporation
+
+On the Efﬁciency of Durable State Machine Replication
+Alysson Bessani, Marcel Santos, João Felix, and Nuno Neves, FCUL/LaSIGE, University of Lisbon; Miguel Correia, INESC-ID, IST, University of Lisbon
+
+Estimating Duplication by Content-based Sampling
+Fei Xie, Michael Condict, and Sandip Shete, NetApp Inc.
+
+MutantX-S: Scalable Malware Clustering Based on Static Features
+Xin Hu, IBM T.J. Watson Research Center; Sandeep Bhatkar and Kent Grifﬁn, Symantec Research Labs; Kang G. Shin, University of Michigan
+
+Redundant State Detection for Dynamic Symbolic Execution
+Suhabe Bugrara and Dawson Engler, Stanford University
+
+packetdrill: Scriptable Network Stack Testing, from Sockets to Packets
+Neal Cardwell, Yuchung Cheng, Lawrence Brakmo, Matt Mathis, Barath Raghavan, Nandita Dukkipati, Hsiao-keng Jerry Chu, Andreas Terzis, and Tom Herbert, Google
+
+DeepDive: Transparently Identifying and Managing Performance Interference in Virtualized Environments
+Dejan Novaković, Nedeljko Vasić, and Stanko Novaković, École Polytechnique Fédérale de Lausanne (EPFL); Dejan Kostić, Institute IMDEA Networks; Ricardo Bianchini, Rutgers University
+
+Efﬁcient and Scalable Paravirtual I/O System
+Nadav Har’El, Abel Gordon, and Alex Landau, IBM Research–Haifa; Muli Ben-Yehuda, Technion IIT and Hypervisor Consulting; Avishay Traeger and Razya Ladelsky, IBM Research–Haifa
+
+vTurbo: Accelerating Virtual Machine I/O Processing Using Designated Turbo-Sliced Core
+Cong Xu, Sahan Gamage, Hui Lu, Ramana Kompella, and Dongyan Xu, Purdue University
+
+When Slower Is Faster: On Heterogeneous Multicores for Reliable Systems
+Tomas Hruby, Herbert Bos, and Andrew S. Tanenbaum, VU University Amsterdam
+
+IAMEM: Interaction-Aware Memory Energy Management
+Mingsong Bi, Intel Corporation; Srinivasan Chandrasekharan and Chris Gniady, University of Arizona
+
+XLH: More Effective Memory Deduplication Scanners Through Cross-layer Hints
+Konrad Miller, Fabian Franz, Marc Rittinghaus, Marius Hillenbrand, and Frank Bellosa, Karlsruhe Institute of Technology
+
+Enabling OS Research by Inferring Interactions in the Black-Box GPU Stack
+Konstantinos Menychtas, Kai Shen, and Michael L. Scott, University of Rochester
+
+Mantis: Automatic Performance Prediction for Smartphone Applications
+Yongin Kwon, Seoul National University; Sangmin Lee, University of Texas at Austin; Hayoon Yi, Donghyun Kwon, and Seungjun Yang, Seoul National University; Byung-Gon Chun, Microsoft; Ling Huang and Petros Maniatis, Intel; Mayur Naik, Georgia Institute of Technology; Yunheung Paek, Seoul National University
+
+I/O Stack Optimization for Smartphones
+Sooman Jeong, Hanyang University; Kisung Lee, Samsung Electronics; Seongjin Lee, Hanyang University; Seoungbum Son, Samsung Electronics; Youjip Won, Hanyang University
+Awarded Best Paper!  
+
+How to Run POSIX Apps in a Minimal Picoprocess
+Jon Howell, Bryan Parno, and John R. Douceur, Microsoft Research
+
+Network Interface Design for Low Latency Request-Response Protocols
+Mario Flajslik and Mendel Rosenblum, Stanford University
+
+DEFINED: Deterministic Execution for Interactive Control-Plane Debugging
+Chia-Chi Lin, Virajith Jalaparti, and Matthew Caesar, University of Illinois at Urbana-Champaign; Jacobus Van der Merwe, University of Utah
+
+Improving Server Application Performance via Pure TCP ACK Receive Optimization
+Michael Chan and David R. Cheriton, Stanford University
+
+
+2014: https://www.usenix.org/sites/default/files/atc14_full_proceedings.pdf
+
+*Big Data*
+
+ShuffleWatcher: Shuffle-aware Scheduling in Multi-tenant MapReduce Clusters
+
+Violet: A Storage Stack for IOPS/Capacity Bifurcated Storage Environments 
+
+ELF: Efficient Lightweight Fast Stream Processing at Scale
+
+Exploiting Bounded Staleness to Speed Up Big Data Analytics
+
+Making State Explicit for Imperative Big Data Processing 
+
+*Virtualization*
+
+OSv—Optimizing the Operating System for Virtual Machines
+
+Gleaner: Mitigating the Blocked-Waiter Wakeup Problem for Virtualized Multicore Applications
+
+HYPERSHELL: A Practical Hypervisor Layer Guest OS Shell for Automated In-VM Management
+
+XvMotion: Unified Virtual Machine Migration over Long Distance
+
+GPUvm: Why Not Virtualizing GPUs at the Hypervisor?
+
+A Full GPU Virtualization Solution with Mediated Pass-Through
+
+*Storage*
+vCacheShare: Automated Server Flash Cache Space Management in a Virtualization Environment
+
+Missive: Fast Application Launch From an Untrusted Buffer Cache
+
+A Modular and Efficient Past State System for Berkeley DB
+
+SCFS: A Shared Cloud-backed File System
+
+Accelerating Restore and Garbage Collection in Deduplication-based Backup Systems via Exploiting Historical Information
+
+*Hardware and Low-level Techniques*
+
+The TURBO Diaries: Application-controlled Frequency Scaling Explained
+
+Implementing a Leading Loads Performance Predictor on Commodity Processors
+
+HaPPy: Hyperthread-aware Power Profiling Dynamically
+
+Scalable Read-mostly Synchronization Using Passive Reader-Writer Locks
+
+Large Pages May Be Harmful on NUMA Systems
+
+Efficient Tracing of Cold Code via Bias-Free Sampling
+
+*Distributed Systems*
+
+Gestalt: Fast, Unified Fault Localization for Networked Systems 
+
+Insight: In-situ Online Service Failure Path Inference in Production Computing Infrastructures
+
+Automating the Choice of Consistency Levels in Replicated Systems
+
+Sirius: Distributing and Coordinating Application Reference Data
+
+In Search of an Understandable Consensus Algorithm
+
+*Networking*
+GASPP: A GPU-Accelerated Stateful Packet Processing Framework
+
+Panopticon: Reaping the Benefits of Incremental SDN Deployment in Enterprise Networks 
+
+Programmatic Orchestration of WiFi Networks
+
+HACK: Hierarchical ACKs for Efficient Wireless Medium Utilization
+
+Pythia: Diagnosing Performance Problems in Wide Area Providers
+
+BISmark: A Testbed for Deploying Measurements and Applications in Broadband Access Networks
+
+*Security and Correctness*
+Application-Defined Decentralized Access Control 
+
+MiniBox: A Two-Way Sandbox for x86 Native Code
+
+Static Analysis of Variability in System Software: The 90,000 #ifdefs Issue
+
+Yat: A Validation Framework for Persistent Memory Software
+
+Medusa: Managing Concurrency and Communication in Embedded Systems
+
+Reliable Writeback for Client-side Flash Caches
+
+Flash on Rails: Consistent Flash Performance through Redundancy
+
+I/O Speculation for the Microsecond Era 
+
+OS I/O Path Optimizations for Flash Solid-state Drives
+
+FlexECC: Partially Relaxing ECC of MLC SSD for Better Cache Performance 
+
+Nitro: A Capacity-Optimized SSD Cache for Primary Storage
